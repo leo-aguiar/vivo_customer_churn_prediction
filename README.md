@@ -119,7 +119,7 @@ vivo_customer_churn_prediction/
 └── README.md
 ```
 
-## 📌 Principais conceitos aplicados
+## Principais conceitos aplicados
 
 * Análise exploratória de dados (EDA)
 * Tratamento de dados ausentes
