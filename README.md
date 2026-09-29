@@ -1,7 +1,5 @@
 # vivo_customer_churn_prediction
 
-# VIVO Customer Churn
-
 Projeto de **Data Science e Machine Learning em R** desenvolvido para analisar o comportamento de clientes e identificar características associadas ao **churn (cancelamento)**.
 
 O projeto utiliza dados de clientes de telecomunicações e aplica técnicas de análise exploratória, transformação de dados e modelagem preditiva para classificação de clientes entre aqueles que permaneceram e aqueles que deixaram o serviço.
@@ -115,7 +113,7 @@ Os modelos foram avaliados utilizando **matriz de confusão** e métricas de cla
 ## Estrutura do projeto
 
 ```text
-vivo_customer_churn/
+vivo_customer_churn_prediction/
 │
 ├── vivo_customer_churn.R
 └── README.md
